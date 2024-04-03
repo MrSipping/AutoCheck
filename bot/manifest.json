@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Supreme Auto-Checkout bot",
+  "name": "Supreme Cop bot",
   "description": "Supreme Open-Source add to cart bot",
-  "version": "2.10.1",
+  "version": "2.10.2",
   "background": {
     "scripts": ["background.js"]
   },
